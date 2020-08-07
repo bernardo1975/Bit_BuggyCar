@@ -1,0 +1,22 @@
+{
+    "name": "BuggyCar",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "BitBuggy": "github:pisupply/pxt-bitbuggy#v2.1.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "pyprj"
+}
